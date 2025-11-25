@@ -1,0 +1,220 @@
+This project provides a complete analysis of NIFTY 50 stocks using Microsoft Excel. It includes historical stock data, industry-wise categorization, trend analysis, performance comparison, and summary dashboards built using formulas, charts, and data-cleaning techniques.
+The goal of this project is to analyze stock performance, identify price movement patterns, calculate key metrics, and visually explain insights using Excel tools. This project is useful for beginners learning data analysis, stock analysis, and Excel-based reporting.
+
+📌 PROJECT FEATURES
+1. Data Cleaning & Preparation
+
+
+Removed blanks / filled missing values
+
+
+Organized stock data by rows & columns
+
+
+Standardized dates, stock names, and industries
+
+
+Ensured clean structure for PivotTables and lookups
+
+
+2. Industry-wise Stock Classification
+
+
+Used VLOOKUP / XLOOKUP to classify each stock into its correct industry
+
+
+Added an industry column for deeper analysis
+
+
+3. Price Trend Analysis
+
+
+Identified Oldest Price and Latest Price
+
+
+Calculated Percentage Change, Returns, High/Low movement
+
+
+Compared performance between stocks
+
+
+4. Pivot Table Summary
+
+
+Created PivotTables to view:
+
+
+Industry-wise average price
+
+
+Best & worst performing stocks
+
+
+Monthly or yearly trend summary
+
+
+
+
+5. Stock Performance Dashboard
+
+
+Interactive dashboard including:
+
+
+Line charts
+
+
+Bar charts
+
+
+Sparkline mini-charts
+
+
+Top gainers and losers
+
+
+Industry comparison
+
+
+
+
+
+🛠 SKILLS USED IN THIS PROJECT
+1. Excel Data Analysis Skills
+
+
+Data Cleaning
+
+
+Data Formatting
+
+
+Sorting & Filtering
+
+
+Removing duplicates
+
+
+Managing large datasets
+
+
+2. Excel Formulas
+
+
+VLOOKUP / XLOOKUP – Industry mapping
+
+
+IF / AND conditions – Trend analysis
+
+
+AVERAGE / MAX / MIN – Summary metrics
+
+
+PERCENT CHANGE formula
+
+
+DATE functions
+
+
+3. Pivot Tables & Pivot Charts
+
+
+Industry summary
+
+
+Price movement comparison
+
+
+Gainers/losers analysis
+
+
+4. Data Visualization
+
+
+Line Charts (price trend)
+
+
+Bar Charts (top stocks)
+
+
+Sparklines
+
+
+Conditional formatting for highlights
+
+
+5. Reporting & Dashboard Design
+
+
+Clean layout
+
+
+Selected color theme
+
+
+KPI boxes (High, Low, % Change)
+
+
+Navigation-friendly dashboard
+
+
+
+🎯 TECHNIQUES USED
+✔ Data Cleaning Techniques
+
+
+Removing blanks
+
+
+Replacing missing values with 0
+
+
+Standardizing data types
+
+
+Using “Text-to-Columns” (if needed)
+
+
+✔ Lookup Techniques
+
+
+Mapping industries using VLOOKUP
+
+
+Cross-sheet reference formulas
+
+
+✔ Analysis Techniques
+
+
+Finding oldest and latest closing prices
+
+
+Trend forecasting
+
+
+Stock comparison
+
+
+Generating top 20 trades or top 20 stocks
+
+
+✔ Visualization Techniques
+
+
+Creating dashboards
+
+
+Designing trend visuals
+
+
+Sparkline embedding
+
+A complete Excel-based NIFTY 50 stock market analysis project including data cleaning, industry classification, price trend analysis, PivotTables, and an interactive dashboard. Uses Excel formulas, charts, and lookup techniques to deliver insights from historical stock data.
+
+
+If you want, I can also create:
+✅ A short version
+✅ A professional GitHub README.md format
+✅ A one-line bio for your project
+Just tell me! 
